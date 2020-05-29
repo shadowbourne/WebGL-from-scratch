@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Chair</title>
+  </head>
+
+  <body onload="main()">
+    <canvas id="webgl" width="900" height="900">
+    Please use a browser that supports "canvas"
+    </canvas>
+    <p>CAMERA CONTROLS:<br/><br/>
+      &uarr; &larr; &darr; &rarr; : look around.<br/>
+      W, A, S, D, SPACE BAR, LEFT CTRL : Move camera (forwards, left, back, right, vertically up, vertically down).<br/>
+      - = : Decrease/increase the movement speed of the camera by 10%.<br/>
+      [ ] : Decrease/increase the turning speed of the camera by 10%.<br/>
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 0 : Move to preset camera view setups (0 resets camera to original position).<br/>
+      N : Toggle camera being able to leave the room.<br/>
+      B : Toggle walls and ceiling.<br/>
+      G : Toggle background colour.<br/><br/>
+      LIGHTING AND RENDERING CONTROLS:<br/><br/>
+      L : Toggle "Warmed Love" filter (default is on).<br/>
+      M : Toggle Multitextured Rendering.<br/>
+      J : Turn main lights off / on.<br/>
+      H : Cycle through RGB light presets.<br/>
+      P : Toggle Party Lights: Cycle Mode.<br/> 
+      O : Toggle Party Lights: Strobe Mode.<br/>
+      F : Put out / Light Fire in Fireplace (sets logs on fire and toggles flickering fire).<br/><br/>
+      
+      ANIMATION CONTROLS:<br/><br/>
+
+      C : Pull out / tuck in chairs.<br/>
+      V : Collapse sofas (for when you want a solo chill night :) ).<br/>
+      T : Hide / reveal mantleplace TV.<br/>
+      Y : Power off / on rotating table.<br/>
+
+       </p>
+    <script src="../lib/webgl-utils.js"></script>
+    <script src="../lib/webgl-debug.js"></script>
+    <script src="../lib/cuon-utils.js"></script>
+    <script src="../lib/cuon-matrix.js"></script>
+    <script src="../lib/gl-matrix.js"></script>
+    <script src="./CG.js"></script>
+  </body>
+</html>
