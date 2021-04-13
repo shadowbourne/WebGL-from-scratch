@@ -25,7 +25,7 @@ These may be changed as long as the resolutions match otherwise rendering proble
 * ↑ ← ↓ → : look around.
 * W, A, S, D, SPACE BAR, LEFT CTRL : Move camera (forwards, left, back, right, vertically up, vertically down).
 * \- = : Decrease/increase the movement speed of the camera by 10%.
-* '[   ]' : Decrease/increase the turning speed of the camera by 10%.
+* \[   \] : Decrease/increase the turning speed of the camera by 10%.
 * 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 : Move to preset camera view setups (0 resets camera to original position).
 * N : Toggle camera being able to leave the room.
 * B : Toggle walls and ceiling.
