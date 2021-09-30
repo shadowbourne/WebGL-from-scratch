@@ -1,4 +1,7 @@
 # WebGL-from-scratch
+Submitted as part of the degree of Msci Natural Sciences (2nd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
+This summative assignment was assessed and marked by the professor of the module in question:
+## Grade: 1st - 88/100
 A sitting room scene made in WebGL entirely by hand at the most base level possible (no three.js, all models made by hand etc..)
   
 In order to run the webgl program: open "CG.html" found under the "source_code" folder in chrome with the parameter "-allow-file-access-from-files".
