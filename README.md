@@ -2,6 +2,9 @@
 Submitted as part of the degree of Msci Natural Sciences (2nd year) to the Board of Examiners in the Department of Computer Sciences, Durham University. 
 This summative assignment was assessed and marked by the professor of the module in question:
 ## Grade: 1st - 88/100
+![image](https://user-images.githubusercontent.com/18665030/136418940-7799f593-43e1-482e-8c65-f6c1454284f8.png)
+
+
 A sitting room scene made in WebGL entirely by hand at the most base level possible (no three.js, all models made by hand etc..).
 
 See Demo videos for final product.
